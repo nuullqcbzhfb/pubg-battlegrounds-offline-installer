@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | 64-bit Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: Intel Core i5-4430 / AMD FX-6300 / Rec: Intel Core i5-6600K / AMD Ryzen 5 1600 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB / Rec: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | Min: 40 GB available space / Rec: 50 GB available space | 40 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
 
 ---
 
